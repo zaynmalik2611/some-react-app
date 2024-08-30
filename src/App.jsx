@@ -7,7 +7,7 @@ function App() {
         </div>
         <div className=" flex justify-center">
           <div className="border p-4 mt-6 rounded-lg">
-            Hello FI! how are you?
+            Some app. I dunno what it should do yet.
           </div>
         </div>
       </div>
