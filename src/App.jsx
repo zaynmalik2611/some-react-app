@@ -7,7 +7,7 @@ function App() {
         </div>
         <div className=" flex justify-center">
           <div className="border p-4 mt-6 rounded-lg">
-            Some react app. I dunno what to do about it.
+            Hello FI! how are you?
           </div>
         </div>
       </div>
